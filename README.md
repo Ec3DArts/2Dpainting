@@ -1,1 +1,1 @@
-# 2Dpainting
+# 2D
